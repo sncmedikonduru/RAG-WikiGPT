@@ -1,4 +1,4 @@
-# RAG System using Hugging Face Models and FAISS Index
+# RAG-WikiGPT
 
 ## PROBLEM STATEMENT
 
@@ -49,8 +49,4 @@ The system was evaluated based on its accuracy in retrieving relevant documents 
 ## Results
 
 The RAG system demonstrated significant improvements in both retrieval accuracy and the quality of generated answers compared to traditional question-answering models. The use of FAISS indexing allowed the system to scale effectively, handling large datasets with minimal impact on performance. Overall, the system achieved a high level of accuracy and efficiency, making it a valuable tool for a wide range of applications.
-
-## Contributor
-
-- SAI NATH CHOWDARY MEDIKONDURU
 
